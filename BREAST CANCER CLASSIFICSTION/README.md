@@ -24,3 +24,10 @@ sensitivity : 0.7940
 specificity : 0.8482
 ```
 
+-> model acc and loss plot 
+
+![modelplot](plot.png)
+
+-> model architecture
+
+![cancernet model](model.png)
