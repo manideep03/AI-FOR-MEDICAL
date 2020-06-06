@@ -20,4 +20,6 @@ Model had got about ```99.65%``` accuracy.
 
 Let's plot the coefficients to see which variables (patient features) are having the most effect.
 
-I found ```Age``` factor will be the higest factor to cause  ***Diabetic Retinopathy***
+I found that ```Age``` factor will be the higest factor to cause  ***Diabetic Retinopathy***
+
+![image](graph.png)
